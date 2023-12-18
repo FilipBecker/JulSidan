@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://main--ornate-churros-407dd9.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
@@ -6,4 +6,4 @@ theme = 'Hugo_profile'
 
 [Params]
     favicon = '/img/merry_christmas.jpg'
-    tomte_link = 'http://localhost:1313/profile'
+    tomte_link = 'https://main--ornate-churros-407dd9.netlify.app/profile/'

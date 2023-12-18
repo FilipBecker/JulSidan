@@ -1,6 +1,7 @@
 ---
 title: Profiler
+date: 2023-12-12T13:23:54+01:00
 ---
 ## Olika profiler
 
-[Om tomten](http://localhost:1313/profile)
+[Om tomten](https://main--ornate-churros-407dd9.netlify.app/profile/)
