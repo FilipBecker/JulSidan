@@ -1,0 +1,9 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+theme = 'Hugo_profile'
+
+[Params]
+    favicon = '/img/merry_christmas.jpg'
+    tomte_link = 'http://localhost:1313/profile'

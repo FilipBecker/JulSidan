@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Om tomten</title>
+      <link>https://example.org/profile/</link>
+      <pubDate>Tue, 12 Dec 2023 13:23:54 +0100</pubDate>
+      <guid>https://example.org/profile/</guid>
+      <description>Om mig Jag är tomten och jag är intresserad av mjölk, kakor, renskötsel och sjänka presenter.&#xA;Bild </description>
+    </item>
+  </channel>
+</rss>
